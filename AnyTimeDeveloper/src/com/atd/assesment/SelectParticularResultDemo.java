@@ -2,7 +2,7 @@ package com.atd.assesment;
 
 import java.sql.*;
 import java.util.Scanner;
-
+//Select Single
 public class SelectParticularResultDemo {
 	public static void main(String[] args) {
 		Connection con=null;
