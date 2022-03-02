@@ -1,7 +1,7 @@
 package com.atd.assesment;
 
 import java.sql.*;
-
+//Select Demo
 public class SelectDemo {
 
 	public static void main(String[] args) {
