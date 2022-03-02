@@ -1,8 +1,11 @@
+
+
 package com.atd.assesment;
 
 import java.sql.*;
 import java.util.Scanner;
 
+//Delete Demo
 public class DeleteDemo {
 	public static void main(String[] args) {
 		Connection con=null;
