@@ -3,6 +3,7 @@ package com.atd.assesment;
 import java.sql.*;
 import java.util.Scanner;
 
+//Insert Demo
 class InsertDemo {
 
 	public static void main(String[] args) throws Exception {
